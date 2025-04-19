@@ -1,0 +1,2 @@
+let radius = prompt("To find the Diameter , Circumference , Area of Circle.\n Please Enter the radius of the circle:");
+alert(`1. Diameter of Circle: ${2 * radius}\n2. Circumference of Circle: ${2 * Math.PI * radius}\n3. Area of Circle: ${Math.PI * radius * radius}`);
